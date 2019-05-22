@@ -1,0 +1,15 @@
+{
+  "name": "demo-tencent-geo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenyy",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "xml-parser": "^1.2.1"
+  }
+}
