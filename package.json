@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "lodash": "^4.17.11",
+    "mongoose": "^5.5.11",
     "xml-parser": "^1.2.1"
   }
 }
