@@ -7348,102 +7348,31 @@
   <CountryRegion Name="新加坡" Code="SGP" />
   <CountryRegion Name="新喀里多尼亚" Code="NCL" />
   <CountryRegion Name="新西兰" Code="NZL">
-    <State Name="北地大区" Code="NLD">
-      <City Name="法尔北" Code="FN"/>
-      <City Name="旺阿雷" Code="WHA"/>
-      <City Name="凯帕拉" Code="KAI"/>
-    </State>
-    <State Name="奥克兰大区" Code="AUKD">
-      <City Name="奥克兰" Code="AUK"/>
-    </State>
-    <State Name="怀卡托大区" Code="WKT">
-      <City Name="汉密尔顿" Code='HAM'/>
-      <City Name="怀卡托" Code="WAI"/>
-      <City Name="怀普" Code="WPA"/>
-      <City Name="陶波" Code="TAU"/>
-      <City Name="马塔马塔" Code="MPK"/>
-      <City Name="科罗曼德尔" Code="THA"/>
-      <City Name="南怀卡托" Code="SWK"/>
-      <City Name="豪拉基" Code="HRK"/>
-      <City Name="韦特莫" Code="WTMO"/>
-      <City Name="奥托罗杭阿" Code="OHG"/>
-    </State>
-    <State Name="普伦蒂湾大区" Code="BPR">
-      <City Name="塔朗哥" Code="TAU"/>
-      <City Name="罗托路亚" Code="ROT"/>
-      <City Name="西丰盛湾" Code="WBP"/>
-      <City Name="瓦卡塔尼" Code="WHA"/>
-      <City Name="奥波蒂基" Code="OPK"/>
-      <City Name="卡韦劳" Code="KAW"/>
-    </State>
-    <State Name="吉斯伯恩大区" Code="GIS">
-      <City Name="吉斯伯恩" Code="GIS"/>
-    </State>
-    <State Name="霍克湾大区" Code="HKB">
-      <City Name="黑斯廷斯" Code="HAS"/>
-      <City Name="内皮尔" Code="NPR"/>
-      <City Name="中央霍克湾" Code="CHB"/>
-      <City Name="怀罗阿" Code="WRA"/>
-    </State>
-    <State Name="塔拉纳基大区" Code="TARA">
-      <City Name="新普利默斯" Code="NPH"/>
-      <City Name="南塔拉纳基" Code="STAR"/>
-      <City Name="斯特拉福" Code="SFD"/>
-    </State>
-    <State Name="马纳瓦图-旺加努伊大区" Code="WGN">
-      <City Name="旺加努伊" Code="WAN"/>
-      <City Name="北帕莫斯顿" Code="PALN"/>
-      <City Name="霍劳赫纳" Code="HOR"/>
-      <City Name="马纳瓦图" Code="MANA"/>
-      <City Name="塔拉鲁阿" Code="TARA"/>
-      <City Name="朗伊塔克" Code="RTK"/>
-      <City Name="鲁阿佩胡山" Code="RPC"/>
-    </State>
-    <State Name="惠灵顿大区" Code="WLG">
-      <City Name="惠灵顿" Code="1"/>
-      <City Name="芒特赫特" Code="2"/>
-      <City Name="波里鲁瓦" Code="3"/>
-      <City Name="卡皮蒂科斯特" Code="4"/>
-      <City Name="上哈特" Code="5"/>
-      <City Name="马斯特顿" Code="6"/>
-      <City Name="南怀罗拉帕" Code="7"/>
-      <City Name="卡特顿" Code="8"/>
-    </State>
-    <State Name="塔斯曼大区" Code="TAS">
-      <City Name="塔斯曼" Code="1"/>
-    </State>
-    <State Name="马尔堡大区" Code="MARL">
-      <City Name="马尔堡" Code="1"/>
-    </State>
-    <State Name="尼尔森大区" Code="NEL">
-      <City Name="尼尔森" Code="1"/>
-    </State>
-    <State Name="西岸大区" Code="WEST">
-      <City Name="Grey" Code="1"/>
-      <City Name="布勒" Code="2"/>
-      <City Name="韦斯特兰" Code="3"/>
-    </State>
-    <State Name="坎特伯雷大区" Code="CAN">
-      <City Name="基督城" Code="1"/>
-      <City Name="怀马卡里里" Code="2"/>
-      <City Name="提马鲁" Code="3"/>
-      <City Name="塞尔温" Code="4"/>
-      <City Name="阿什伯顿" Code="5"/>
-      <City Name="怀基" Code="6"/>
-      <City Name="赫伦伊" Code="7"/>
-      <City Name="怀马蒂" Code="8"/>
-      <City Name="马更些" Code="9"/>
-      <City Name="凯库拉" Code="10"/>
-    </State>
-    <State Name="奥塔哥大区" Code="OTA">
-      <City Name="中央奥塔哥" Code="1"/>
-      <City Name="Clutha" Code="2"/>
-      <City Name="皇后镇" Code="3"/>
-      <City Name="但尼丁" Code="4"/>
-    </State>
-    <State Name="南地大区" Code="SLD">
-      <City Name="因弗卡吉尔" Code="1"/>
-      <City Name="戈尔" Code="2"/>
+    <State>
+      <City Name="奥克兰" Code="AUK" />
+      <City Name="北岸" Code="NSH" />
+      <City Name="北帕默斯顿" Code="PMR" />
+      <City Name="北远" Code="FNR" />
+      <City Name="布莱尼姆" Code="BHE" />
+      <City Name="达尼丁" Code="DUD" />
+      <City Name="格雷茅斯" Code="GMN" />
+      <City Name="哈密尔顿" Code="HLZ" />
+      <City Name="黑斯廷斯" Code="HAS" />
+      <City Name="怀塔科拉" Code="WAE" />
+      <City Name="吉斯伯恩" Code="GIS" />
+      <City Name="凯帕拉" Code="KAI" />
+      <City Name="克赖斯特彻奇" Code="CHC" />
+      <City Name="里士满" Code="RMD" />
+      <City Name="马努考" Code="MNK" />
+      <City Name="纳尔逊" Code="NSN" />
+      <City Name="内皮尔" Code="NPE" />
+      <City Name="斯特拉特福德" Code="STR" />
+      <City Name="陶马鲁努伊" Code="TAU" />
+      <City Name="瓦卡塔尼" Code="WHK" />
+      <City Name="旺阿雷" Code="WRE" />
+      <City Name="旺格努伊" Code="WAG" />
+      <City Name="新普利茅斯" Code="NPL" />
+      <City Name="因弗卡吉尔" Code="IVC" />
     </State>
   </CountryRegion>
   <CountryRegion Name="匈牙利" Code="HUN">

@@ -2825,102 +2825,31 @@
   <CountryRegion Name="Netherlands Antilles" Code="ANT" />
   <CountryRegion Name="New Caledonia" Code="NCL" />
   <CountryRegion Name="New Zealand" Code="NZL">
-    <State Name="Northland" Code="NLD">
-      <City Name="Far North" Code="FN"/>
-      <City Name="Whangarei" Code="WHA"/>
-      <City Name="Kaipara" Code="KAI"/>
-    </State>
-    <State Name="Auckland" Code="AUKD">
+    <State >
       <City Name="Auckland" Code="AUK"/>
-    </State>
-    <State Name="Waikato" Code="WKT">
-      <City Name="Hamilton" Code='HAM'/>
-      <City Name="Waikato" Code="WAI"/>
-      <City Name="Waipa" Code="WPA"/>
-      <City Name="Taupo" Code="TAU"/>
-      <City Name="Matamata-Piako" Code="MPK"/>
-      <City Name="Thames-Coromandel" Code="THA"/>
-      <City Name="South Waikato" Code="SWK"/>
-      <City Name="Hauraki" Code="HRK"/>
-      <City Name="Waitomo" Code="WTMO"/>
-      <City Name="Otorohanga" Code="OHG"/>
-    </State>
-    <State Name="Bay of Plenty Region" Code="BPR">
-      <City Name="Tauranga" Code="TAU"/>
-      <City Name="罗托Rotorua路亚" Code="ROT"/>
-      <City Name="Western Bay of Plenty" Code="WBP"/>
-      <City Name="Whakatane" Code="WHA"/>
-      <City Name="Opotiki" Code="OPK"/>
-      <City Name="Kawerau" Code="KAW"/>
-    </State>
-    <State Name="Gisborne" Code="GIS">
+      <City Name="Blenheim" Code="BHE"/>
+      <City Name="Christchurch" Code="CHC"/>
+      <City Name="Dunedin" Code="DUD"/>
+      <City Name="Far North" Code="FNR"/>
       <City Name="Gisborne" Code="GIS"/>
-    </State>
-    <State Name="Hawke's Bay" Code="HKB">
+      <City Name="Greymouth" Code="GMN"/>
+      <City Name="Hamilton" Code="HLZ"/>
       <City Name="Hastings" Code="HAS"/>
-      <City Name="Napier" Code="NPR"/>
-      <City Name="Central Hawke's Bay" Code="CHB"/>
-      <City Name="Wairoa" Code="WRA"/>
-    </State>
-    <State Name="Taranaki" Code="TARA">
-      <City Name="New Plymouth" Code="NPH"/>
-      <City Name="South Taranaki" Code="STAR"/>
-      <City Name="Stratford" Code="SFD"/>
-    </State>
-    <State Name="Wanganui District" Code="WGN">
-      <City Name="Wanganui" Code="WAN"/>
-      <City Name="Palmerston North" Code="PALN"/>
-      <City Name="Horowhenua" Code="HOR"/>
-      <City Name="Manawatu" Code="MANA"/>
-      <City Name="Tararua" Code="TARA"/>
-      <City Name="Rangitikei" Code="RTK"/>
-      <City Name="Ruapehu" Code="RPC"/>
-    </State>
-    <State Name="Wellington" Code="WLG">
-      <City Name="Wellington" Code="1"/>
-      <City Name="Hutt" Code="2"/>
-      <City Name="Porirua" Code="3"/>
-      <City Name="Kapiti Coast" Code="4"/>
-      <City Name="Upper Hutt" Code="5"/>
-      <City Name="Masterton" Code="6"/>
-      <City Name="South Wairarapa" Code="7"/>
-      <City Name="Carterton" Code="8"/>
-    </State>
-    <State Name="Tasman" Code="TAS">
-      <City Name="Tasman" Code="1"/>
-    </State>
-    <State Name="Marlborough" Code="MARL">
-      <City Name="Marlborough" Code="1"/>
-    </State>
-    <State Name="Nelson" Code="NEL">
-      <City Name="Nelson" Code="1"/>
-    </State>
-    <State Name="West Coast " Code="WEST">
-      <City Name="Grey" Code="1"/>
-      <City Name="Buller" Code="2"/>
-      <City Name="Westland" Code="3"/>
-    </State>
-    <State Name="Canterbury" Code="CAN">
-      <City Name="Christchurch" Code="1"/>
-      <City Name="Waimakariri" Code="2"/>
-      <City Name="Timaru" Code="3"/>
-      <City Name="Selwyn" Code="4"/>
-      <City Name="Ashburton" Code="5"/>
-      <City Name="Waitaki" Code="6"/>
-      <City Name="Hurunui" Code="7"/>
-      <City Name="Waimate" Code="8"/>
-      <City Name="Mackenzie" Code="9"/>
-      <City Name="Kaikoura" Code="10"/>
-    </State>
-    <State Name="Otago" Code="OTA">
-      <City Name="Central Otago" Code="1"/>
-      <City Name="Clutha" Code="2"/>
-      <City Name="Queenstown" Code="3"/>
-      <City Name="Dunedin" Code="4"/>
-    </State>
-    <State Name="Southland" Code="SLD">
-      <City Name="Invercargill" Code="1"/>
-      <City Name="Gore" Code="2"/>
+      <City Name="Invercargill" Code="IVC"/>
+      <City Name="Kaipara" Code="KAI"/>
+      <City Name="Manukau" Code="MNK"/>
+      <City Name="Napier" Code="NPE"/>
+      <City Name="Nelson" Code="NSN"/>
+      <City Name="New Plymouth" Code="NPL"/>
+      <City Name="North Shore" Code="NSH"/>
+      <City Name="Palmerston North" Code="PMR"/>
+      <City Name="Richmond" Code="RMD"/>
+      <City Name="Stratford" Code="STR"/>
+      <City Name="Taumarunui" Code="TAU"/>
+      <City Name="Waitakere" Code="WAE"/>
+      <City Name="Wanganui" Code="WAG"/>
+      <City Name="Whakatane" Code="WHK"/>
+      <City Name="Whangarei" Code="WRE"/>
     </State>
   </CountryRegion>
   <CountryRegion Name="Nicaragua" Code="NIC">
