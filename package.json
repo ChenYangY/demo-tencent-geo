@@ -9,7 +9,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mongoose": "^5.5.11",
     "xml-parser": "^1.2.1"
   }
